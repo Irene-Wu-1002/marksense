@@ -1,3 +1,4 @@
+This is a fork of the original MarkSense project developed collaboratively by our team during Hackathon: Google Chrome Built-in AI Challenge 2025.
 ## 💡 Inspiration
 
 While reading long research papers and online articles, we often highlight key points, copy summaries into note apps, and search for definitions or translations all manually. We wanted a smarter way to summarize, translate, and learn directly inside Chrome, powered entirely by on-device AI for privacy and speed.
